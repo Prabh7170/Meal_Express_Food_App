@@ -199,16 +199,6 @@ npm start
 
 
 
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/ad8ebb0c-3112-4c6d-ac79-85a6488f3bd3)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/01165d4a-2180-40fc-8d91-21f3759767a9)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/bfbd4657-5add-4ddc-b25e-f59ead98b123)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/ba5749e0-1d4d-4643-b385-c28486aee23c)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/465e2492-720c-47ba-a921-ca8c889ed5e1)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/df715848-5160-4af6-9bb7-d0a548e530a0)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/cb18ea3c-90bf-4179-80d4-9273aa2ff856)
+![image](https://github.com/Prabh7170/Meal_Express_Food_App/blob/06d221a4c5c39e91dede70d7e079b1171861bf10/Screenshot%20(166).png)
 
-*************ADMIN PANEL*********************
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/7ff5bd0f-9c69-4cd4-b015-4843d7fbcccf)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/b6c58707-5059-4304-8c1d-5cf121a080cf)
-![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/88018b62-3c46-4a7e-9f03-19a3c92b6c87)
 # Meal_Express_Food_App
