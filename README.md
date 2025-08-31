@@ -1,8 +1,6 @@
-**Full Stack Food Delivery Website**
-Overview
+🍴 Meal Express – Food Delivery App
 
-
-This project is a comprehensive full-stack food delivery website that includes a frontend, backend, and an admin panel. The application enables users to order food online, while the admin panel allows administrators to manage orders, menus, and users.
+Meal Express is a MERN stack food delivery application where users can browse meals, add them to cart, and place orders. The project is divided into Frontend (React), Backend (Express + MongoDB), and Admin Panel for managing orders.
 
 **Technologies Used**
 
@@ -152,6 +150,54 @@ Live Server Reloading: Implemented using Nodemon for efficient development.
 
 
 API Testing: Conducted using ThunderClient for robust backend development.
+
+1.Setup Backend:-
+
+cd backend
+
+npm install
+
+Create .env file inside backend/
+
+PORT=4000
+
+MONGO_URI=your_mongodb_connection_string
+
+JWT_SECRET=your_secret_key
+
+Run Backend Server:-
+
+npm start
+
+2. Setup Frontend
+3. 
+cd frontend
+
+npm install
+
+Create .env file inside frontend/
+
+REACT_APP_API_URL=http://localhost:4000
+
+Run Frontend:-
+
+npm start
+
+3.Setup Admin Panel
+
+cd admin
+
+npm install
+
+Create .env file inside admin/
+
+REACT_APP_API_URL=http://localhost:4000
+
+Run Admin Panel
+
+npm start
+
+
 
 ![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/ad8ebb0c-3112-4c6d-ac79-85a6488f3bd3)
 ![image](https://github.com/Vinit-Sikri/delivery_app/assets/172244095/01165d4a-2180-40fc-8d91-21f3759767a9)
